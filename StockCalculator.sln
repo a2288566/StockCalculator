@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockCalculator", "StockCalculator\StockCalculator.csproj", "{638F4840-FB23-48F5-8A14-17C396E597CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638F4840-FB23-48F5-8A14-17C396E597CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638F4840-FB23-48F5-8A14-17C396E597CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638F4840-FB23-48F5-8A14-17C396E597CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638F4840-FB23-48F5-8A14-17C396E597CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EF0099-AE6F-43A1-ABB9-C0D761A973A4}
+	EndGlobalSection
+EndGlobal
